@@ -1,5 +1,5 @@
 # 2560
-Scripts for a clone of the game 2048 (created by: https://github.com/gabrielecirulli/2048), instead with 5s and 10s as opposed to 2s and 4s, made using the personal version of the Unity3D game engine.
+Scripts for a clone of the game 2048 (created by: https://github.com/gabrielecirulli/2048), uses 5s and 10s as opposed to 2s and 4s, made using the personal version of the Unity3D game engine.
 
 ## Contribution:
 * I was the sole programmer for the game 2560
